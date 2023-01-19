@@ -1,4 +1,4 @@
-// Include file header
+// Include File Header
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
@@ -540,6 +540,20 @@ void cariDataDosen(){
   	  	  	}
   	  	}
   	  	/*End Seleksi Search Menggunakan Nama*/
+
+  	  	/*Seleksi Search Menggunakan Matkul*/
+  	  	if (search == 3){
+  	  	  	  	loop4 = 0;
+  	  	  	  	for (int j = 0; j < strlen(searchData); j++){
+  	  	  	  	  	if (tolower(dataDosen[j+index2[1]+1]) == tolower(searchData[j])){
+  	  	  	  	  	  	loop4++;
+  	  	  	  	  	}
+  	  	  	  	  	if (loop4 == index2[2] - index2[1] - 1){
+  	  	  	  	  	  	loop3 = index2[0];
+  	  	  	  	  	}
+  	  	  	  	}
+  	  	}
+  	  	/*End Seleksi Search Menggunakan Matkul*/
 
   	  	if (loop3 == index2[0]){/*Jika Data Sesuai Dengan Yang Dicari User*/
 
