@@ -31,4 +31,8 @@ main.c
 ```
 - Masukkan pilihan menu sesuai nomor urut
 - Tidak bisa di masukkan karakter 
-- 
+- Input data sesuai keterangannya
+
+## Contributors
+- [Irfan Yasin](https://github.com/alirfanyasin)
+- [Natanael Wijaya Tiono](https://github.com/NatanaelWT)
