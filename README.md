@@ -29,7 +29,7 @@ Compile file main.c bukan function.c
 ```sh
 main.c
 ```
-- Masukkan pilihan menu sesuai nomor urut
+- Masukkan angka pada pilihan menu sesuai nomor urut
 - Tidak bisa di masukkan karakter 
 - Input data sesuai keterangannya
 
