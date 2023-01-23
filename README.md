@@ -1,5 +1,10 @@
 # Aplikasi Sistem Data Dosen ITTS
 Aplikasi sistem data dosen ITTS merupakan aplikasi yang di rancang untuk mengelolah data informasi dari dosen yang ada di ITTS.
+## Requirement
+Persyaratan untuk menggunakan aplikasi ini harus memenuhi:
+- [Code Editor](https://code.visualstudio.com/) - Visual Studio Code
+- [Compiler](https://www.mingw-w64.org/) - MinGW-w64
+- [IDE](https://www.codeblocks.org/) - Code Blocks
 ## Features
 - Read data 
 - Create data
@@ -7,26 +12,23 @@ Aplikasi sistem data dosen ITTS merupakan aplikasi yang di rancang untuk mengelo
 - Update data
 - Search data
 - Sorting data (Ascending & Descending)
-
-## Main Files
+## Getting Started
+### Donwload
+Download repositori dengan format zip
+```sh
+https://github.com/alirfanyasin/Sistem-Data-Dosen-ITTS/archive/refs/heads/master.zip
+```
+### Main Files
 ```text
 your_folder/
 ├── main.c
 └── function.c
 ```
-## Getting Started
-### Donwload
+### Usage
+Compile file main.c bukan function.c
 ```sh
-node app
+main.c
 ```
-
-```text
-dist/
-├── cropper.css
-├── cropper.min.css   (compressed)
-├── cropper.js        (UMD)
-├── cropper.min.js    (UMD, compressed)
-├── cropper.common.js (CommonJS, default)
-└── cropper.esm.js    (ES Module)
-```
-
+- Masukkan pilihan menu sesuai nomor urut
+- Tidak bisa di masukkan karakter 
+- 
