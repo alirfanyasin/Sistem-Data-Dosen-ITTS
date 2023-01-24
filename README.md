@@ -20,7 +20,7 @@ https://github.com/alirfanyasin/Sistem-Data-Dosen-ITTS/archive/refs/heads/master
 ```
 ### Main Files
 ```text
-your_folder/
+directory/
 ├── main.c
 └── function.c
 ```
