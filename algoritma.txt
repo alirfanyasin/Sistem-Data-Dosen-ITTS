@@ -1,7 +1,28 @@
 ALGORITMA SISTEM DATA DOSEN ITTS
 
 Alur Kerja Program
-* Menampilkan Menu (Data Dosen, Cari Dosen, Tambahkan Dosen, Edit Dosen, Update Dosen, Delete Dosen)
+
+* Menampilkan Menu 
+    - Lihat Data Dosen
+        * Detail data
+        * Total jumlah data
+        * Menu pengurutan (ASC & DESC, berdasarkan nama dan nip)
+        * Kembali
+        
+    - Input Data Dosen
+        * Input jumlah data yang ingin di inputkan
+        * Masukkan NIP
+        * Masukkan nama
+        * Masukkan jenis kelamin
+        * Masukkan mata kuliah
+        * Masukkan alamat
+        * Masukkan kontak
+        
+    - Edit Data Dosen
+        * 
+    - Hapus Data Dosen
+    - Cari Data Dosen
+    - Keluar
 * Menampilkan Menu Data Dosen (NIP, Nama, Matkul, Alamat, Kontak)
 * Menampilkan Menu Cari Dosen (Berdasarkan NIP)
 * Menampilkan Menu Tambahkan Dosen (NIP, Nama, Matkul, Alamat, Kontak)
