@@ -30,7 +30,7 @@ Compile file main.c bukan function.c
 main.c
 ```
 - Masukkan angka pada pilihan menu sesuai nomor urut
-- Tidak bisa di masukkan karakter 
+- Tidak bisa di masukkan karakter pada menu pilihan
 - Input data sesuai keterangannya
 
 ## Contributors
